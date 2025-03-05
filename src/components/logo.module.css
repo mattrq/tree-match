@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo.bottom {
+    flex-direction: column;
+}
+
+
+.green  {
+    color: green;
+}
+
+.brown {
+    color: saddlebrown;
+}

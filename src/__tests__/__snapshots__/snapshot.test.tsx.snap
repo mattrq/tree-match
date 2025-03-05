@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <main
+      class="main"
+    >
+      <div
+        class="logo bottom"
+      >
+        <img
+          alt="TreeMatch Logo"
+          data-nimg="1"
+          decoding="async"
+          height="150"
+          loading="lazy"
+          src="/_next/image?url=%2Flogo.jpg&w=384&q=75"
+          srcset="/_next/image?url=%2Flogo.jpg&w=256&q=75 1x, /_next/image?url=%2Flogo.jpg&w=384&q=75 2x"
+          style="color: transparent;"
+          width="150"
+        />
+        <div>
+          <strong
+            class="green"
+          >
+            Tree
+          </strong>
+          <strong
+            class="brown"
+          >
+            Match
+          </strong>
+        </div>
+      </div>
+      <div>
+        Lets get started finding your perfect tree.
+      </div>
+      <div>
+        Start by sign-in or registering.
+      </div>
+      <div
+        class="ctas"
+      >
+        <a
+          class="primary"
+          href="/auth/login"
+          rel="noopener noreferrer"
+        >
+          Log in
+        </a>
+        <a
+          class="secondary"
+          href="/auth/login?screen_hint=signup"
+          rel="noopener noreferrer"
+        >
+          Sign up
+        </a>
+      </div>
+    </main>
+    <footer
+      class="footer"
+    />
+  </div>
+</div>
+`;
